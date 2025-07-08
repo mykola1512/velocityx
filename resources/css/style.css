@@ -1,0 +1,29 @@
+/* Fullscreen background */
+.hero {
+    height: 100vh;
+    background: url('/images/fundo.jpg') center center / cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Título centrado */
+.hero-title {
+    font-size: 4rem;
+    color: white;
+    z-index: 2;
+    transition: opacity 0.5s ease;
+}
+
+/* Transição de transparência */
+.hero-title.transparent {
+    opacity: 0;
+}
+
+/* Conteúdo da página */
+.content {
+    background: white;
+    padding: 3rem;
+}
