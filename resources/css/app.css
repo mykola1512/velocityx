@@ -1,5 +1,5 @@
 @import 'tailwindcss';
-@import './estilo_inicial.css';
+/* @import './estilo_inicial.css'; */
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
