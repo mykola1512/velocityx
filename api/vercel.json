@@ -12,6 +12,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://velocityx-rho.vercel.app",
+        "APP_KEY": "base64:4YGON5bsMIEgfXu3ayuMauHRG5NqODytmPQ5z7t/Qu4=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
