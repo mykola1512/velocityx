@@ -44,10 +44,6 @@
             Esse segundo ESP32 interpreta os sinais e movimenta o carrinho conforme a aceleração e direção.
             O volante e os pedais são conectados a um chassis RC modificado, permitindo um controle preciso do carrinho.
         </p>
-
-        <img src="/imagens/esquema.jpg" alt="Esquema do funcionamento" class="w-full rounded shadow-md">
-
-        <p class="text-sm text-gray-500 mt-2 text-center">Esquema ilustrativo da ligação entre volante, pedais e carrinho</p>
     </div>
     </section>
 
@@ -64,19 +60,64 @@
             <img src="/imagens/IM1.jpg" alt="Carrinho montado" class="w-full h-64 object-cover">
         </div>
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
-            <img src="/imagens/IM2.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
+            <img src="/imagens/IM8.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
         </div>
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
-            <img src="/imagens/IM3.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
+            <img src="/imagens/IM7.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
         </div>
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
-            <img src="/imagens/IM4.jpg" alt="Carrinho em ação" class="w-full h-64 object-cover">
+            <img src="/imagens/IM4.jpg" alt="Carrinho em ação" class="w-full h-100 object-cover">
         </div>
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
-            <img src="/imagens/IM5.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
+            <img src="/imagens/IM5.jpg" alt="Equipa a trabalhar" class="w-full h-100 object-cover">
         </div>
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
-            <img src="/imagens/IM6.jpg" alt="Carrinho em ação" class="w-full h-64 object-cover">
+            <img src="/imagens/IM3.jpg" alt="Carrinho em ação" class="w-full h-100 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H1.jpg" alt="Carrinho montado" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H2.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H3.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/V1.jpg" alt="Carrinho em ação" class="w-full h-100 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/V3.jpg" alt="Equipa a trabalhar" class="w-full h-100 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/V4.jpg" alt="Carrinho em ação" class="w-full h-100 object-cover">
+        </div>
+                <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H4.jpg" alt="Carrinho montado" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H5.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H6.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H7.jpg" alt="Carrinho montado" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H8.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H9.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
+        </div>
+                <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H10.jpg" alt="Carrinho montado" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H11.jpg" alt="Testes do volante" class="w-full h-64 object-cover">
+        </div>
+        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-105 transition transform duration-300">
+            <img src="/imagens/H12.jpg" alt="Equipa a trabalhar" class="w-full h-64 object-cover">
         </div>
     </div>
     </section>
@@ -88,22 +129,21 @@
         <p class="text-gray-600 mt-2">Conhece os criadores do projeto Velocity X</p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 px-4">
+
         <!-- Membro 1 -->
         <div class="bg-white rounded-xl shadow-lg p-6 text-center">
-            <img src="/imagens/mykola.jpg" alt="Mykola Galyulko" class="w-32 h-32 mx-auto rounded-full object-cover">
+            <img src="/imagens/mykola3.jpg" alt="Mykola Galyulko" class="w-75 h-65 mx-auto rounded-full object-cover">
             <h2 class="mt-4 text-xl font-semibold text-gray-800">Mykola Galyulko</h2>
-            <p class="text-gray-600">Programador e Designer do site,<br>Responsável pelos pedais</p>
+            <p class="text-gray-600">Programador e Designer do site,<br>Responsável pelos pedais e apresentação.</p>
         </div>
 
         <!-- Membro 2 -->
         <div class="bg-white rounded-xl shadow-lg p-6 text-center">
-            <img src="/imagens/nuno.jpg" alt="Nuno Gomes" class="w-32 h-32 mx-auto rounded-full object-cover">
+            <img src="/imagens/nuno.jpg" alt="Nuno Gomes" class="w-65 h-65 mx-auto rounded-full object-cover">
             <h2 class="mt-4 text-xl font-semibold text-gray-800">Nuno Gomes</h2>
-            <p class="text-gray-600">Responsável pelo volante, vídeo</p>
+            <p class="text-gray-600">Responsável pelo volante, carro e vídeo</p>
         </div>
-
-        <!-- Adiciona mais membros se quiseres -->
     </div>
     </section>
 @endsection
